@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<Scene clearColorr="0" clearColorg="0" clearColorb="0" clearColora="255">
+    <Entity>
+        <UUID uuid="13219758300154674841"/>
+        <Tag tag="Camera"/>
+        <Transform px="0" py="0" sx="1" sy="1" rot="0"/>
+        <Camera current="true"/>
+    </Entity>
+</Scene>

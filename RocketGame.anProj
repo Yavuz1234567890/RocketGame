@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<Application>
+    <Name value="RocketGame"/>
+    <StartScene path="assets\Scenes\Game.anScene"/>
+    <IsFullscreen fullscreen="true"/>
+    <DisplayResolution id="0"/>
+</Application>
